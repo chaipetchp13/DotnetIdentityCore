@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kittiphonchaipetch/Desktop/Projects/DotnetIdentityCore/DotnetIdentity/DotnetIdentity.csproj": {}
+  },
+  "projects": {
+    "/Users/kittiphonchaipetch/Desktop/Projects/DotnetIdentityCore/DotnetIdentity/DotnetIdentity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kittiphonchaipetch/Desktop/Projects/DotnetIdentityCore/DotnetIdentity/DotnetIdentity.csproj",
+        "projectName": "DotnetIdentity",
+        "projectPath": "/Users/kittiphonchaipetch/Desktop/Projects/DotnetIdentityCore/DotnetIdentity/DotnetIdentity.csproj",
+        "packagesPath": "/Users/kittiphonchaipetch/.nuget/packages/",
+        "outputPath": "/Users/kittiphonchaipetch/Desktop/Projects/DotnetIdentityCore/DotnetIdentity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kittiphonchaipetch/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "npgsql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "npgsql.EntityFrameWorkCore.Postgresql": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
