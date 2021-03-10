@@ -1,16 +1,19 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A60AFC33-AB7D-4A6D-A829-DB92810A2DE6}|Default">
   <MonoDevelop.Ide.ItemProperties.DotnetIdentity PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
       <File FileName="appsettings.json" Line="3" Column="113" />
-      <File FileName="Startup.cs" Line="31" Column="34" />
+      <File FileName="Startup.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DotnetIdentity" expanded="True">
             <Node name="DotnetIdentity" expanded="True">
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
